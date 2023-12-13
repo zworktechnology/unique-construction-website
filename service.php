@@ -26,7 +26,7 @@
         <div class="row">
           <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
             <div class="service__slide-4 wcfadeUp2">
-              <a href="service-details.php">
+              <a href="structural-design.php">
                 <div class="service__thumb-wrapper">
                   <img class="service__thumb" src="assets/imgs/service/1/1.jpg" alt="Service Image">
                 </div>
@@ -38,13 +38,39 @@
             </div>
           </div>
           <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
+            <div class="service__slide-4 wow wcfadeUp" data-wow-delay="0.15s">
+              <a href="repair-and-renovation.php">
+                <div class="service__thumb-wrapper">
+                  <img class="service__thumb" src="assets/imgs/service/1/4.jpg" alt="Service Image">
+                </div>
+                <div class="service__slide-title rounded">
+                  <img src="assets/imgs/service/1/icon-1.png" alt="Service Icon" style="width:65px;">
+                  <h4>Repair & <br> Renovation</h4>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
+            <div class="service__slide-4 wow wcfadeUp" data-wow-delay="0.45s">
+              <a href="project-management.php">
+                <div class="service__thumb-wrapper">
+                  <img class="service__thumb" src="assets/imgs/service/1/6.jpg" alt="Service Image">
+                </div>
+                <div class="service__slide-title rounded">
+                  <img src="assets/imgs/service/1/icon-5.png" alt="Service Icon" style="width:65px;">
+                  <h4>Project <br> Management</h4>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
             <div class="service__slide-4 wcfadeUp3">
-              <a href="service-details.php">
+              <a href="interior-and-exterior-design.php">
                 <div class="service__thumb-wrapper">
                   <img class="service__thumb" src="assets/imgs/service/1/2.jpg" alt="Service Image">
                 </div>
                 <div class="service__slide-title rounded">
-                  <img src="assets/imgs/service/1/icon-2.png" alt="Service Icon">
+                  <img src="assets/imgs/service/1/icon-4.png" alt="Service Icon" style="width:65px;">
                   <h4>Interior & <br>Exterior Design </h4>
                 </div>
               </a>
@@ -52,7 +78,7 @@
           </div>
           <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
             <div class="service__slide-4 wcfadeUp4">
-              <a href="service-details.php">
+              <a href="contract-architectural-design.php">
                 <div class="service__thumb-wrapper">
                   <img class="service__thumb" src="assets/imgs/service/1/3.jpg" alt="Service Image">
                 </div>
@@ -64,21 +90,8 @@
             </div>
           </div>
           <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
-            <div class="service__slide-4 wow wcfadeUp" data-wow-delay="0.15s">
-              <a href="service-details.php">
-                <div class="service__thumb-wrapper">
-                  <img class="service__thumb" src="assets/imgs/service/1/4.jpg" alt="Service Image">
-                </div>
-                <div class="service__slide-title rounded">
-                  <img src="assets/imgs/service/1/icon.png" alt="Service Icon">
-                  <h4>Repair & <br> Rennovation</h4>
-                </div>
-              </a>
-            </div>
-          </div>
-          <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
             <div class="service__slide-4 wow wcfadeUp" data-wow-delay="0.3s">
-              <a href="service-details.php">
+              <a href="estimation.php">
                 <div class="service__thumb-wrapper">
                   <img class="service__thumb" src="assets/imgs/service/1/5.jpg" alt="Service Image">
                 </div>
@@ -89,21 +102,8 @@
               </a>
             </div>
           </div>
-          <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
-            <div class="service__slide-4 wow wcfadeUp" data-wow-delay="0.45s">
-              <a href="service-details.php">
-                <div class="service__thumb-wrapper">
-                  <img class="service__thumb" src="assets/imgs/service/1/6.jpg" alt="Service Image">
-                </div>
-                <div class="service__slide-title rounded">
-                  <img src="assets/imgs/service/1/icon-3.png" alt="Service Icon">
-                  <h4>Project <br> Management</h4>
-                </div>
-              </a>
-            </div>
-          </div>
         </div>
-
+          
         <div class="row">
           <div class="col-xxl-12">
             <div class="service__btm-4 wow wcfadeUp" data-wow-delay="0.6s">

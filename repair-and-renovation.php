@@ -7,7 +7,7 @@
           <div class="col-xxl-12">
             <div class="breadcrumb__content">
               <h1 class="breadcrumb__title">Repair and Renonvation</h1>
-              <p>Innovate Build Excel: Repair and Rennovation with Unique Construction.</p>
+              <p>Innovate Build Excel: Repair and renovation with Unique Construction.</p>
             </div>
           </div>
         </div>
@@ -28,14 +28,14 @@
             <div class="service__sidebar">
               <div class="widget__service wcfadeUp3">
                 <h2 class="widget__title">more services</h2>
-                <ul>
-                  <li><a href="structural-design.php">Structural Design</a></li>
-                  <li><a href="service-details.php">Estimation</a></li>
-                  <li><a href="service-details.php">Contract Architecture Design</a></li>
-                  <li><a href="service-details.php">Project Managemnet</a></li>
-                  <li><a href="service-details.php">Interior & Exterior Design</a></li>
-                  <li><a href="service-details.php">Repair & Rennovation</a></li>
-                </ul>
+                  <ul>
+                    <li><a href="structural-design.php">Structural Design</a></li>
+                    <li><a href="estimation.php">Estimation</a></li>
+                    <li><a href="contract-architectural-design.php">Contract Architectural Design</a></li>
+                    <li><a href="project-management.php">Project Managemnet</a></li>
+                    <li><a href="interior-and-exterior-design.php">Interior & Exterior Design</a></li>
+                    <li><a href="repair-and-renovation.php">Repair & Renovation</a></li>
+                  </ul>
               </div>
 
               <div class="widget__contact wow wcfadeUp" data-wow-delay="0.15s">
@@ -48,7 +48,7 @@
           </div>
           <div class="col-xxl-9 col-xl-8 col-lg-9 col-md-8">
             <div class="service__detail-content wcfadeUp4">
-              <img src="assets/imgs/service/details/1.jpg" alt="Service Thumbnail" class="service__detail-thumb">
+              <img src="assets/imgs/service/details/repair/1.jpg" alt="Service Thumbnail" class="service__detail-thumb">
               <h2 class="service__detail-title">Repair and Renovation</h2>
               <p>
                 Revitalize and transform your space with Unique Construction's Repair and Renovation services. 
@@ -72,8 +72,8 @@
                 Our commitment to quality materials and workmanship ensures that every project stands the test of time.
               </p>
               <div class="thumb-col-2">
-                <img src="assets/imgs/service/details/2.jpg" alt="Service Thumbnail">
-                <img src="assets/imgs/service/details/3.jpg" alt="Service Thumbnail">
+                <img src="assets/imgs/service/details/repair/2.jpg" alt="Service Thumbnail">
+                <img src="assets/imgs/service/details/repair/3.jpg" alt="Service Thumbnail">
               </div>
 
               <div class="faq__list-2">

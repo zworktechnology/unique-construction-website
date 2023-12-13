@@ -66,10 +66,8 @@
             <div class="col-xxl-6 col-xl-5 col-lg-5 col-md-6">
               <div class="header__info-right">
                 <ul class="header__social">
-                  <li><a href="#"><span><i class="fa-brands fa-facebook-f"></i></span></a></li>
-                  <li><a href="#"><span><i class="fa-brands fa-instagram"></i></span></a></li>
-                  <li><a href="#"><span><i class="fa-brands fa-linkedin"></i></span></a></li>
-                  <li><a href="#"><span><i class="fa-brands fa-youtube"></i></span></a></li>
+                <li><a href="https://www.facebook.com/profile.php?id=61554777562622" target="_blank"><span><i class="fa-brands fa-facebook-f"></i></span></a></li>
+                    <li><a href="https://www.instagram.com/unique_constructions.trichy/" target="_blank"><span><i class="fa-brands fa-instagram"></i></span></a></li>
                 </ul>
               </div>
             </div>
@@ -100,7 +98,7 @@
                       <li><a href="contract-architectural-design.php">Contract Architectural Design</a></li>
                       <li><a href="project-management.php">Project Management</a></li>
                       <li><a href="interior-and-exterior-design.php">Interior & Exterior Design</a></li>
-                      <li><a href="repair-and-rennovation.php">Repair & Rennovation</a></li>
+                      <li><a href="repair-and-renovation.php">Repair & Renovation</a></li>
                     </ul>
                   </li>
                   <li><a href="portfolio.php"><span>04</span> Portfolio</a></li>
@@ -145,7 +143,7 @@
                   <li><a href="contract-architectural-design.php">Contract Architectural Design</a></li>
                   <li><a href="service-details.php">Project Management</a></li>
                   <li><a href="interior-and-exterior-design.php">Interior & Exterior Design</a></li>
-                  <li><a href="repair-and-rennovation.php">Repair & Rennovation</a></li>
+                  <li><a href="repair-and-renovation.php">Repair & Renovation</a></li>
                 </ul>
               </li>
               <li><a href="portfolio.php">Portfolio<span>04</span></a></li>

@@ -13,10 +13,8 @@
                 <p>Elevate spaces with Unique Construction. Innovative designs, quality craftsmanship, and client-focused solutions for enduring excellence.</p>
                 <br>
                   <ul class="footer__social footer__social-media">
-                    <li><a href="#"><span><i class="fa-brands fa-facebook-f"></i></span></a></li>
-                    <li><a href="#"><span><i class="fa-brands fa-twitter"></i></span></a></li>
-                    <li><a href="#"><span><i class="fa-brands fa-instagram"></i></span></a></li>
-                    <li><a href="#"><span><i class="fa-brands fa-linkedin"></i></span></a></li>
+                    <li><a href="https://www.facebook.com/profile.php?id=61554777562622" target="_blank"><span><i class="fa-brands fa-facebook-f"></i></span></a></li>
+                    <li><a href="https://www.instagram.com/unique_constructions.trichy/" target="_blank"><span><i class="fa-brands fa-instagram"></i></span></a></li>
                   </ul>
               </div>
             </div>
@@ -40,7 +38,7 @@
                   <li><a href="estimation.php">Estimation</a></li>
                   <li><a href="contract-architectural-design.php">Contract Architectural Design</a></li>
                   <li><a href="interior-and-exterior-design.php">Interior & Exterior Design</a></li>
-                  <li><a href="repair-and-rennovation.php">Repair & Rennovation</a></li>
+                  <li><a href="repair-and-renovation.php">Repair & Renovation</a></li>
                 </ul>
               </div>
             </div>
@@ -61,12 +59,12 @@
         <div class="container">
           <div class="row">
             <div class="col-6">
-                <div class="footer__copyright">
+                <div class="footer__copyright mb-3">
                   <p>Copyrights © 2023 <a href="javascript:void(0)"> Unique Construction</a> . All Rights Reserved</p>
                 </div>
             </div>
             <div class="col-6 text-right">  
-                <div class="footer__copyright" style="margin-left: 250px;">
+                <div class="footer__copyright mb-3" style="margin-left: 250px;">
                   <p>Crafted by <a href="https://zworktechnology.com/" target="_blank"> zworktechnology.com </a></p>
                 </div>
               </div>

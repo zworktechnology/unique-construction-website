@@ -42,56 +42,89 @@
           </div>
         </div>
       </div>
-
+    <div class="container" style="max-width: 9000px;">
       <div class="swiper case-study__slider-2">
         <div class="swiper-wrapper">
           <div class="swiper-slide case-study__slide-2 wow wcfadeUp" data-wow-delay="0.25s">
-            <a href="portfolio-details.php">
+            <a href="javascript:void(0)">
               <img src="assets/imgs/case-study/2/1.jpg" alt="case-study Image">
               <div class="case-study__info-2">
-                <h4>Crystal Neora</h4>
-                <p><span>New York</span> - 02 July 2021</p>
+                <h4>Project 1</h4>
+                <p><span>Location</span></p>
               </div>
             </a>
           </div>
           <div class="swiper-slide case-study__slide-2 wow wcfadeUp" data-wow-delay="0.4s">
-            <a href="portfolio-details.php">
+            <a href="javascript:void(0)">
               <img src="assets/imgs/case-study/2/2.jpg" alt="case-study Image">
               <div class="case-study__info-2">
-                <h4>Crystal Neora</h4>
-                <p><span>New York</span> - 02 July 2021</p>
+                <h4>Project 2</h4>
+                <p><span>Location</span></p>
               </div>
             </a>
           </div>
           <div class="swiper-slide case-study__slide-2 wow wcfadeUp" data-wow-delay="0.55s">
-            <a href="portfolio-details.php">
+            <a href="javascript:void(0)">
               <img src="assets/imgs/case-study/2/3.jpg" alt="case-study Image">
               <div class="case-study__info-2">
-                <h4>Crystal Neora</h4>
-                <p><span>New York</span> - 02 July 2021</p>
+                <h4>Project 3</h4>
+                <p><span>Location</span></p>
               </div>
             </a>
           </div>
           <div class="swiper-slide case-study__slide-2 wow wcfadeUp" data-wow-delay="0.7s">
-            <a href="portfolio-details.php">
+            <a href="javascript:void(0)">
               <img src="assets/imgs/case-study/2/4.jpg" alt="case-study Image">
               <div class="case-study__info-2">
-                <h4>Crystal Neora</h4>
-                <p><span>New York</span> - 02 July 2021</p>
-              </div>
-            </a>
-          </div>
-          <div class="swiper-slide case-study__slide-2 wow wcfadeUp" data-wow-delay="0.9s">
-            <a href="portfolio-details.php">
-              <img src="assets/imgs/case-study/2/2.jpg" alt="case-study Image">
-              <div class="case-study__info-2">
-                <h4>Crystal Neora</h4>
-                <p><span>New York</span> - 02 July 2021</p>
+                <h4>Project 4</h4>
+                <p><span>Location</span></p>
               </div>
             </a>
           </div>
         </div>
       </div>
+      <br><br><br>
+      <div class="swiper case-study__slider-2">
+        <div class="swiper-wrapper pl-5">
+          <div class="swiper-slide case-study__slide-2 wow wcfadeUp" data-wow-delay="0.25s">
+            <a href="javascript:void(0)">
+              <img src="assets/imgs/case-study/2/5.jpg" alt="case-study Image">
+              <div class="case-study__info-2">
+                <h4>Project 5</h4>
+                <p><span>Location</span></p>
+              </div>
+            </a>
+          </div>
+          <div class="swiper-slide case-study__slide-2 wow wcfadeUp" data-wow-delay="0.4s">
+            <a href="javascript:void(0)">
+              <img src="assets/imgs/case-study/2/6.jpg" alt="case-study Image">
+              <div class="case-study__info-2">
+                <h4>Project 6</h4>
+                <p><span>Location</span></p>
+              </div>
+            </a>
+          </div>
+          <div class="swiper-slide case-study__slide-2 wow wcfadeUp" data-wow-delay="0.55s">
+            <a href="javascript:void(0)">
+              <img src="assets/imgs/case-study/2/7.jpg" alt="case-study Image">
+              <div class="case-study__info-2">
+                <h4>Project 7</h4>
+                <p><span>Location</span></p>
+              </div>
+            </a>
+          </div>
+          <div class="swiper-slide case-study__slide-2 wow wcfadeUp" data-wow-delay="0.7s">
+            <a href="javascript:void(0)">
+              <img src="assets/imgs/case-study/2/8.jpg" alt="case-study Image">
+              <div class="case-study__info-2">
+                <h4>Project 8</h4>
+                <p><span>Location</span></p>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
 
       <div class="container line remove-pb">
         <span class="line-3"></span>

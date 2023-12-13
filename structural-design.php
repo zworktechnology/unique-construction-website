@@ -30,11 +30,11 @@
                 <h2 class="widget__title">more services</h2>
                 <ul>
                   <li><a href="structural-design.php">Structural Design</a></li>
-                  <li><a href="service-details.php">Estimation</a></li>
-                  <li><a href="service-details.php">Contract Architecture Design</a></li>
-                  <li><a href="service-details.php">Project Managemnet</a></li>
-                  <li><a href="service-details.php">Interior & Exterior Design</a></li>
-                  <li><a href="service-details.php">Repair & Rennovation</a></li>
+                  <li><a href="estimation.php">Estimation</a></li>
+                  <li><a href="contract-architectural-design.php">Contract Architectural Design</a></li>
+                  <li><a href="project-management.php">Project Managemnet</a></li>
+                  <li><a href="interior-and-exterior-design.php">Interior & Exterior Design</a></li>
+                  <li><a href="repair-and-renovation.php">Repair & Renovation</a></li>
                 </ul>
               </div>
 
@@ -48,7 +48,7 @@
           </div>
           <div class="col-xxl-9 col-xl-8 col-lg-9 col-md-8">
             <div class="service__detail-content wcfadeUp4">
-              <img src="assets/imgs/service/details/1.jpg" alt="Service Thumbnail" class="service__detail-thumb">
+              <img src="assets/imgs/service/details/sd/1.jpg" alt="Service Thumbnail" class="service__detail-thumb">
               <h2 class="service__detail-title">Structural Design</h2>
               <p>
                 Explore the strength and innovation of Unique Construction's Structural Design services. 
@@ -66,14 +66,14 @@
                 <li>+ Collaboration with Experienced Structural Engineers</li>
                 
               </ul>
-              <h3 class="service__detail-sub-title">Quality ensuance</h3>
+              <h3 class="service__detail-sub-title">Quality Assurance</h3>
               <p>
                 At Unique Construction, structural integrity is our priority. Our Structural Design services undergo rigorous analysis, ensuring safety and durability. 
                 From concept to execution, our focus on compliance with building codes and client satisfaction guarantees structures that stand the test of time.
               </p>
               <div class="thumb-col-2">
-                <img src="assets/imgs/service/details/2.jpg" alt="Service Thumbnail">
-                <img src="assets/imgs/service/details/3.jpg" alt="Service Thumbnail">
+                <img src="assets/imgs/service/details/sd/2.jpg" alt="Service Thumbnail">
+                <img src="assets/imgs/service/details/sd/3.jpg" alt="Service Thumbnail">
               </div>
 
               <div class="faq__list-2">

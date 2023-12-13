@@ -28,14 +28,14 @@
             <div class="service__sidebar">
               <div class="widget__service wcfadeUp3">
                 <h2 class="widget__title">more services</h2>
-                <ul>
-                  <li><a href="structural-design.php">Structural Design</a></li>
-                  <li><a href="service-details.php">Estimation</a></li>
-                  <li><a href="service-details.php">Contract Architecture Design</a></li>
-                  <li><a href="service-details.php">Project Managemnet</a></li>
-                  <li><a href="service-details.php">Interior & Exterior Design</a></li>
-                  <li><a href="service-details.php">Repair & Rennovation</a></li>
-                </ul>
+                  <ul>
+                    <li><a href="structural-design.php">Structural Design</a></li>
+                    <li><a href="estimation.php">Estimation</a></li>
+                    <li><a href="contract-architectural-design.php">Contract Architectural Design</a></li>
+                    <li><a href="project-management.php">Project Managemnet</a></li>
+                    <li><a href="interior-and-exterior-design.php">Interior & Exterior Design</a></li>
+                    <li><a href="repair-and-renovation.php">Repair & Renovation</a></li>
+                  </ul>
               </div>
 
               <div class="widget__contact wow wcfadeUp" data-wow-delay="0.15s">
@@ -48,7 +48,7 @@
           </div>
           <div class="col-xxl-9 col-xl-8 col-lg-9 col-md-8">
             <div class="service__detail-content wcfadeUp4">
-              <img src="assets/imgs/service/details/1.jpg" alt="Service Thumbnail" class="service__detail-thumb">
+              <img src="assets/imgs/service/details/interior/1.jpg" alt="Service Thumbnail" class="service__detail-thumb">
               <h2 class="service__detail-title">Interior & Exterior Design</h2>
               <p>
                 Experience the perfect blend of aesthetics and functionality with Unique Construction's Interior & Exterior Design services. 
@@ -72,8 +72,8 @@
                 From concept to execution, our focus on precision, sustainable practices, and attention to detail ensures spaces that not only look stunning but also function seamlessly.
               </p>
               <div class="thumb-col-2">
-                <img src="assets/imgs/service/details/2.jpg" alt="Service Thumbnail">
-                <img src="assets/imgs/service/details/3.jpg" alt="Service Thumbnail">
+                <img src="assets/imgs/service/details/interior/2.jpg" alt="Service Thumbnail">
+                <img src="assets/imgs/service/details/interior/3.jpg" alt="Service Thumbnail">
               </div>
 
               <div class="faq__list-2">

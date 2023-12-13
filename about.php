@@ -32,7 +32,7 @@
 
 .text {
   color: white;
-  font-size: 20px;
+  font-size: 16px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -87,10 +87,10 @@
                   <h4 class="about__number about__number-3 wow wcfadeUp" data-wow-delay="0.75s">36+</h4>
                   <h5 class="about__counter-title-3">Years <br>experience</h5>
                 </div>
-                <div class="about__content-3 wow wcfadeUp" data-wow-delay="0.9s">
+                <!-- <div class="about__content-3 wow wcfadeUp" data-wow-delay="0.9s">
                   <button data-bs-toggle="modal" data-bs-target="#about_modal"><i class="fa-solid fa-play"></i></button>
                   <p>Watch Video</p>
-                </div>
+                </div> -->
               </div>
             </div>
           </div>
@@ -183,15 +183,18 @@
           <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3">
             <div class="team__member wow wcfadeUp" data-wow-delay="0.15s">
               <div class="team__img">
-                <img src="assets/imgs/team/1/member-1.jpg" alt="Team Member"
+                <img src="assets/imgs/team/1/1.jpg" alt="Team Member"
                     class="br-left">
                     <div class="overlay">
-                      <div class="text">Hello World</div>
+                      <div class="text">
+                        Completed on <b>B.E(Civil Engineering)</b> at Mookambigai College of Engineering <br>
+                        and <b>M.E(Structural Engineering)</b> at SRM Valliammai Engineering College, Kattankulathur.
+                      </div>
                     </div>
               </div>
               <div class="team__info">
                 <a href="javascript:void(0)">Er.R.Naveen Kumar M.E.,</a>
-                <p>Structural Engineer</p>
+                <p>Proprietor</p>
               </div>
             </div>
           </div>
@@ -199,9 +202,12 @@
           <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3">
             <div class="team__member wow wcfadeUp" data-wow-delay="0.3s">
               <div class="team__img">
-                <img src="assets/imgs/team/1/member-2.jpg" alt="Team Member">
+                <img src="assets/imgs/team/1/2.jpg" alt="Team Member">
                   <div class="overlay">
-                    <div class="text">Hello World</div>
+                    <div class="text">
+                      Completed on <b>B.E(Civil Engineering)</b> at M.I.E.T College, Trichy <br>
+                      and <b>M.E(Structural Engineering)</b> at Alagappa Chettiar Government College of Engineering & Technology, Karaikudi.
+                    </div>
                   </div>
               </div>
               <div class="team__info">
@@ -214,9 +220,12 @@
           <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3">
             <div class="team__member wow wcfadeUp" data-wow-delay="0.45s">
               <div class="team__img">
-              <img src="assets/imgs/team/1/member-3.jpg" alt="Team Member">
+              <img src="assets/imgs/team/1/3.jpg" alt="Team Member">
                   <div class="overlay">
-                    <div class="text">Hello World</div>
+                    <div class="text">
+                      Completed on <b>B.E(Computer Science)</b> at TRP Engineering College(SRM Group of Institutions) <br>
+                      and <b>MBA</b> at University of West of Scotland(United Kingdom).
+                    </div>
                   </div>
               </div>
               <div class="team__info">
@@ -228,9 +237,11 @@
           <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3">
             <div class="team__member wow wcfadeUp" data-wow-delay="0.6s">
               <div class="team__img">
-                <img src="assets/imgs/team/1/member-4.jpg" alt="Team Member"class="br-right">
+                <img src="assets/imgs/team/1/4.jpg" alt="Team Member"class="br-right">
                     <div class="overlay">
-                      <div class="text">Hello World</div>
+                      <div class="text">
+                        Has experience in the field of civil & structural engineering for more than 50 years. Had worked in <b>TamilNadu State Highways</b> as an Engineer as well as gulf country
+                      </div>
                     </div>
               </div>
               <div class="team__info">
@@ -244,28 +255,33 @@
           <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3">
               <div class="team__member wow wcfadeUp" data-wow-delay="0.6s">
                 <div class="team__img">
-                  <img src="assets/imgs/team/1/member-4.jpg" alt="Team Member" class="br-left">
+                  <img src="assets/imgs/team/1/5.jpg" alt="Team Member" class="br-right">
                     <div class="overlay">
-                      <div class="text">Hello World</div>
+                      <div class="text">
+                        Completed on <b>B.Arch.,</b> at Adhiyamaan College of Engineering, Hosur <br>
+                        and <b>Master of Urban and Regional Planning</b> at CEPT University, Ahmedabad.
+                      </div>
+                    </div>
+                </div>
+                <div class="team__info">
+                  <a href="javascript:void(0)">Ar.F.Gary Naveen</a>
+                  <p>Architect</p>
+                </div>
+              </div>
+            </div>
+            
+            <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3">
+              <div class="team__member wow wcfadeUp" data-wow-delay="0.6s">
+                <div class="team__img">
+                  <img src="assets/imgs/team/1/6.jpg" alt="Team Member" class="br-left">
+                    <div class="overlay">
+                      <div class="text">
+                        Our Associate Interior & Exterior Incharge
+                      </div>
                     </div>
                 </div>
                 <div class="team__info">
                   <a href="javascript:void(0)">Mr.C.Muthukumar</a>
-                  <p>Interior & Exterior Incharge</p>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3">
-              <div class="team__member wow wcfadeUp" data-wow-delay="0.6s">
-                <div class="team__img">
-                  <img src="assets/imgs/team/1/member-2.jpg" alt="Team Member" class="br-right">
-                    <div class="overlay">
-                      <div class="text">Hello World</div>
-                    </div>
-                </div>
-                <div class="team__info">
-                  <a href="javascript:void(0)">Ar.F.Graynaveen</a>
                   <p>Interior & Exterior Incharge</p>
                 </div>
               </div>
@@ -290,25 +306,25 @@
                   <p class="wow wcfadeUp" data-wow-delay="0.15s">
                     Unique Construction made our dream home a reality. Their attention to detail and commitment to quality are truly commendable. We're grateful for their exceptional work.
                   </p>
-                  <h3 class="wow wcfadeUp" data-wow-delay="0.3s">Priya <span>From Chennai</span> </h3>
+                  <h3 class="wow wcfadeUp" data-wow-delay="0.3s">Happy Customers <span>From Google</span> </h3>
                 </div>
                 <div class="swiper-slide testimonial__slide-2">
                   <p class="wow wcfadeUp" data-wow-delay="0.15s">
                     Choosing Unique Construction was the best decision for our commercial project. Their innovative approach and timely delivery exceeded our expectations. Highly recommended!
                   </p>
-                  <h3 class="wow wcfadeUp" data-wow-delay="0.3s">Arjun <span>From Coimbatore</span> </h3>
+                  <h3 class="wow wcfadeUp" data-wow-delay="0.3s">Happy Customers <span>From Google</span> </h3>
                 </div>
                 <div class="swiper-slide testimonial__slide-2">
                   <p class="wow wcfadeUp" data-wow-delay="0.15s"> 
                     Our experience with Unique Construction was outstanding. From the initial planning to the final handover, the team's professionalism and dedication shone through. Thank you for creating our beautiful space!
                   </p>
-                  <h3 class="wow wcfadeUp" data-wow-delay="0.3s">Anitha <span>From Madurai</span> </h3>
+                  <h3 class="wow wcfadeUp" data-wow-delay="0.3s">Happy Customers <span>From Google</span> </h3>
                 </div>
                 <div class="swiper-slide testimonial__slide-2">
                   <p class="wow wcfadeUp" data-wow-delay="0.15s"> 
                     Unique Construction stands out for its meticulous planning and skilled architects. The result was a home that perfectly suits our lifestyle. Thank you for making our dream a reality!
                   </p>
-                  <h3 class="wow wcfadeUp" data-wow-delay="0.3s">Karthik <span>From Trichy</span> </h3>
+                  <h3 class="wow wcfadeUp" data-wow-delay="0.3s">Happy Customers <span>From Google</span> </h3>
                 </div>
               </div>
 
