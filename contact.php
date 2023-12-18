@@ -37,26 +37,26 @@
               <p>Get in touch to discuss your employee wellbeing needs today. Please give us a call, drop us an email.
               </p>
               <div class="contact__form wow wcfadeUp" data-wow-delay="0.75s">
-                <form action="#" class="row">
+                <form action="mail.php" method="post" autocomplete="off" class="row">
                   <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-12">
                     <!-- <label for="name">Name</label> -->
-                    <input type="text" id="name" placeholder="Your name">
+                    <input type="text" name="name" id="name" placeholder="Name" required="">
                   </div>
                   <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-12">
                     <!-- <label for="email">Email</label> -->
-                    <input type="email" id="email" placeholder="Your email">
+                    <input type="email" name="email" id="email" placeholder="Email" required="">
                   </div>
                   <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-12">
                     <!-- <label for="phone">Phone (Optional)</label> -->
-                    <input type="tel" id="phone" placeholder="Your phone">
+                    <input type="number" name="mobile" id="phone" placeholder="Mobile Number" required="">
                   </div>
                   <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-12">
                     <!-- <label for="subject">Subject</label> -->
-                    <input type="text" id="subject" placeholder="Your subject">
+                    <input type="text" name="subject" id="subject" placeholder="Subject" required="">
                   </div>
                   <div class="col-xxl-12">
                     <!-- <label for="message">Message</label> -->
-                    <textarea name="Message" id="message" placeholder="Type your message..."></textarea>
+                    <textarea name="Message" id="message" placeholder="Comment..."></textarea>
                   </div>
                   <div class="col-xxl-12">
                     <button class="submit wc-btn-primary btn-hover" type="submit"><span></span> Send Message</button>

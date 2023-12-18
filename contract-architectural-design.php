@@ -32,7 +32,7 @@
                     <li><a href="structural-design.php">Structural Design</a></li>
                     <li><a href="estimation.php">Estimation</a></li>
                     <li><a href="contract-architectural-design.php">Contract Architectural Design</a></li>
-                    <li><a href="project-management.php">Project Managemnet</a></li>
+                    <li><a href="project-management.php">Project Management</a></li>
                     <li><a href="interior-and-exterior-design.php">Interior & Exterior Design</a></li>
                     <li><a href="repair-and-renovation.php">Repair & Renovation</a></li>
                   </ul>

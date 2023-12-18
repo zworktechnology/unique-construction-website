@@ -32,7 +32,7 @@
                     <li><a href="structural-design.php">Structural Design</a></li>
                     <li><a href="estimation.php">Estimation</a></li>
                     <li><a href="contract-architectural-design.php">Contract Architectural Design</a></li>
-                    <li><a href="project-management.php">Project Managemnet</a></li>
+                    <li><a href="project-management.php">Project Management</a></li>
                     <li><a href="interior-and-exterior-design.php">Interior & Exterior Design</a></li>
                     <li><a href="repair-and-renovation.php">Repair & Renovation</a></li>
                   </ul>
@@ -66,7 +66,7 @@
                 <li>+ Sustainable Design Practices</li>
                 
               </ul>
-              <h3 class="service__detail-sub-title">Quality ensuance</h3>
+              <h3 class="service__detail-sub-title">Quality Assurance</h3>
               <p>
                 At Unique Construction, we ensure the highest quality in Interior & Exterior Design. 
                 From concept to execution, our focus on precision, sustainable practices, and attention to detail ensures spaces that not only look stunning but also function seamlessly.

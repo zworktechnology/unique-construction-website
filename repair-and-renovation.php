@@ -6,7 +6,7 @@
         <div class="row">
           <div class="col-xxl-12">
             <div class="breadcrumb__content">
-              <h1 class="breadcrumb__title">Repair and Renonvation</h1>
+              <h1 class="breadcrumb__title">Repair and Renovation</h1>
               <p>Innovate Build Excel: Repair and renovation with Unique Construction.</p>
             </div>
           </div>
@@ -32,7 +32,7 @@
                     <li><a href="structural-design.php">Structural Design</a></li>
                     <li><a href="estimation.php">Estimation</a></li>
                     <li><a href="contract-architectural-design.php">Contract Architectural Design</a></li>
-                    <li><a href="project-management.php">Project Managemnet</a></li>
+                    <li><a href="project-management.php">Project Management</a></li>
                     <li><a href="interior-and-exterior-design.php">Interior & Exterior Design</a></li>
                     <li><a href="repair-and-renovation.php">Repair & Renovation</a></li>
                   </ul>
@@ -66,7 +66,7 @@
                 <li>+ Personalized Consultations for Client Input</li>
                 
               </ul>
-              <h3 class="service__detail-sub-title">Quality ensuance</h3>
+              <h3 class="service__detail-sub-title">Quality Assurance</h3>
               <p>
                 At Unique Construction, our Repair and Renovation services prioritize structural integrity, aesthetics, and client satisfaction. 
                 Our commitment to quality materials and workmanship ensures that every project stands the test of time.
