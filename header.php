@@ -82,7 +82,7 @@
               <div class="header__logo">
                 <a href="index.php">
                   <img class="logo-1" src="assets/imgs/icon/logo.png" alt="Header Logo">
-                  <img class="logo-2" src="assets/imgs/icon/logo.png" style="width: 220px;" alt="Header Logo">
+                  <img class="logo-2" src="assets/imgs/icon/logo.png" alt="Header Logo" style="width: 200px; height: 76px; margin-top: -15px;">
                 </a>
               </div>
             </div>

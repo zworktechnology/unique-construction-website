@@ -67,11 +67,11 @@
 
           <div class="about__counter">
             <div class="about__content">
-              <h4 class="about__number wow wcfadeUp" data-wow-delay="0.75s">2k+</h4>
+              <h4 class="about__number wow wcfadeUp" data-wow-delay="0.75s">40+</h4>
               <h5 class="about__counter-title wow wcfadeUp" data-wow-delay="0.85s">Projects completed</h5>
             </div>
             <div class="about__content">
-              <h4 class="about__number wow wcfadeUp" data-wow-delay="0.9s">36</h4>
+              <h4 class="about__number wow wcfadeUp" data-wow-delay="0.9s">4+</h4>
               <h5 class="about__counter-title wow wcfadeUp" data-wow-delay="1s">Years of experience</h5>
             </div>
           </div>
@@ -186,7 +186,7 @@
       <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3 col-6">
         <div class="counter__content wow wcfadeUp" data-wow-delay="0.6s">
           <h2 class="counter__number">6+</h2>
-          <p>Team engineers</p>
+          <p>Team members</p>
         </div>
       </div>
       <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3 col-6">
