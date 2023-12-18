@@ -24,7 +24,7 @@
           <div class="row">
             <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-10">
               <div class="hero__slide-left">
-                <h1>Building <span>Beyond Boundaries</span></h1>
+                <h1>Foundation for the <span>Future</span></h1>
                 <p>Unique Construction - where each build transcends expectations.</p>
                 <a class="wc-btn-primary btn-hover" href="about.php"><span></span> Explore About</a>
               </div>
@@ -178,27 +178,27 @@
     <span class="line-5"> </span>
     <div class="row">
       <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3 col-6">
-        <div class="counter__content wow wcfadeUp" data-wow-delay="0.15s">
-          <h2 class="counter__number">8k+</h2>
-          <p>Projects completed</p>
-        </div>
-      </div>
-      <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3 col-6">
-        <div class="counter__content wow wcfadeUp" data-wow-delay="0.3s">
-          <h2 class="counter__number">3k+</h2>
-          <p>Global customers</p>
-        </div>
-      </div>
-      <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3 col-6">
         <div class="counter__content wow wcfadeUp" data-wow-delay="0.45s">
-          <h2 class="counter__number">20</h2>
+          <h2 class="counter__number">4+</h2>
           <p>Years of experience</p>
         </div>
       </div>
       <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3 col-6">
         <div class="counter__content wow wcfadeUp" data-wow-delay="0.6s">
-          <h2 class="counter__number">95</h2>
+          <h2 class="counter__number">6+</h2>
           <p>Team engineers</p>
+        </div>
+      </div>
+      <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3 col-6">
+        <div class="counter__content wow wcfadeUp" data-wow-delay="0.15s">
+          <h2 class="counter__number">40+</h2>
+          <p>Projects completed</p>
+        </div>
+      </div>
+      <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3 col-6">
+        <div class="counter__content wow wcfadeUp" data-wow-delay="0.3s">
+          <h2 class="counter__number">40+</h2>
+          <p>Happy customers</p>
         </div>
       </div>
     </div>
@@ -220,7 +220,7 @@
             <img src="assets/imgs/faq/1/faq-1.jpg" alt="FAQ Image">
             <div class="faq__from">
               <span>FROM</span>
-              <h2>1990</h2>
+              <h2>2019</h2>
             </div>
           </div>
         </div>
@@ -290,37 +290,5 @@
   </div>
 </section>
 <!-- FAQ Area End -->
-
-
-<!-- Company Logo Area Start -->
-<section class="company__area">
-  <div class="container line">
-    <span class="line-3"></span>
-    <span class="line-4"></span>
-    <span class="line-5"> </span>
-    <div class="row">
-      <div class="col-xxl-12">
-        <div class="company__logos">
-          <div class="company__logo wow wcfadeUp" data-wow-delay="0.15s">
-            <img src="assets/imgs/company/1/1.png" alt="company Logo">
-          </div>
-          <div class="company__logo wow wcfadeUp" data-wow-delay="0.3s">
-            <img src="assets/imgs/company/1/2.png" alt="company Logo">
-          </div>
-          <div class="company__logo wow wcfadeUp" data-wow-delay="0.45s">
-            <img src="assets/imgs/company/1/3.png" alt="company Logo">
-          </div>
-          <div class="company__logo wow wcfadeUp" data-wow-delay="0.6s">
-            <img src="assets/imgs/company/1/4.png" alt="company Logo">
-          </div>
-          <div class="company__logo wow wcfadeUp" data-wow-delay="0.75s">
-            <img src="assets/imgs/company/1/5.png" alt="company Logo">
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- Company Logo Area End -->
 
 <?php include('footer.php') ?>

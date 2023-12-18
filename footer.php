@@ -18,7 +18,7 @@
                   </ul>
               </div>
             </div>
-            <div class="col-xxl-2 col-md-3">
+            <div class="col-xxl-2 col-md-2">
               <div class="footer__widget footer__widget-2">
                 <h3 class="footer__widget-title">Quick Links</h3>
                 <ul class="footer__quick-link">
@@ -30,23 +30,26 @@
                 </ul>
               </div>
             </div>
-            <div class="col-xxl-3 col-md-3">
+            <div class="col-xxl-2 col-md-3">
               <div class="footer__widget footer__widget-2">
                 <h3 class="footer__widget-title">Information</h3>
                 <ul class="footer__quick-link">
                   <li><a href="structural-design.php">Structural Design</a></li>
-                  <li><a href="estimation.php">Estimation</a></li>
                   <li><a href="contract-architectural-design.php">Contract Architectural Design</a></li>
+                  <li><a href="estimation.php">Estimation</a></li>
+                  <li><a href="project-management.php">Project Management</a></li>
                   <li><a href="interior-and-exterior-design.php">Interior & Exterior Design</a></li>
                   <li><a href="repair-and-renovation.php">Repair & Renovation</a></li>
                 </ul>
               </div>
             </div>
-            <div class="col-xxl-4 col-md-3">
+            <div class="col-xxl-5 col-md-4">
               <div class="footer__widget footer__widget-3">
-                <h3 class="footer__widget-title">Contact Us</h3>
+                <h3 class="footer__widget-title">Corp Office</h3>
                 <ul class="footer__address">
-                  <li><a>52, Sundaraj Nagar, Subramaniyapuram,<br> Trichy-20</a></li>
+                  <li><a>52, Sundaraj Nagar, Subramaniyapuram, Trichy-20</a></li>
+                  <h3 class="footer__widget-title">Branch Office</h3>
+                  <li>Udayar Buildings,Near bus stand,<br>Keeranur, Pudukkottai.</li>
                   <li><a href="tel:+919629709189">+91 9629709189</a></li>
                   <li><a href="mailto:info@uniqueconstructionstrichy.com">info@uniqueconstructionstrichy.com</a></li>
                 </ul>

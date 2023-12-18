@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="BUILDY HTML5 Template" />
+  <meta name="description" content=" " />
 
   <title>Unique Construction</title>
 
@@ -57,7 +57,7 @@
             <div class="col-xxl-6 col-xl-7 col-lg-7 col-md-6">
               <div class="header__info-left">
                 <ul class="header__address">
-                  <li><span><i class="fa-solid fa-location-dot"></i></span>Tiruchirappalli, TamilNadu</li>
+                  <li><span><i class="fa-solid fa-location-dot"></i></span>Tiruchirappalli, Pudukkottai</li>
                   <li><a href="mailto:info@uniqueconstructionstrichy.com"><span><i class="fa-solid fa-envelope"></i></span>
                       info@uniqueconstructionstrichy.com</a></li>
                 </ul>
@@ -82,7 +82,7 @@
               <div class="header__logo">
                 <a href="index.php">
                   <img class="logo-1" src="assets/imgs/icon/logo.png" alt="Header Logo">
-                  <img class="logo-2" src="assets/imgs/icon/logo-2.png" alt="Header Logo">
+                  <img class="logo-2" src="assets/imgs/icon/logo.png" style="width: 220px;" alt="Header Logo">
                 </a>
               </div>
             </div>
@@ -154,7 +154,7 @@
       </div>
       <div class="offcanvas__right">
         <div class="offcanvas__logo">
-          <a href="index.php"><img src="assets/imgs/icon/logo-2.png" alt="Site Logo"></a>
+          <a href="index.php"><img src="assets/imgs/icon/logo.png" alt="Site Logo"></a>
         </div>
         <div class="offcanvas__contact">
           <ul>

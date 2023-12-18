@@ -84,7 +84,7 @@
 
               <div class="about__counter-3">
                 <div class="about__content-3">
-                  <h4 class="about__number about__number-3 wow wcfadeUp" data-wow-delay="0.75s">36+</h4>
+                  <h4 class="about__number about__number-3 wow wcfadeUp" data-wow-delay="0.75s">4+</h4>
                   <h5 class="about__counter-title-3">Years <br>experience</h5>
                 </div>
                 <!-- <div class="about__content-3 wow wcfadeUp" data-wow-delay="0.9s">
@@ -187,7 +187,7 @@
                     class="br-left">
                     <div class="overlay">
                       <div class="text">
-                        Completed on <b>B.E(Civil Engineering)</b> at Mookambigai College of Engineering <br>
+                        Completed <b>B.E(Civil Engineering)</b> at Mookambigai College of Engineering <br>
                         and <b>M.E(Structural Engineering)</b> at SRM Valliammai Engineering College, Kattankulathur.
                       </div>
                     </div>
@@ -205,7 +205,7 @@
                 <img src="assets/imgs/team/1/2.jpg" alt="Team Member">
                   <div class="overlay">
                     <div class="text">
-                      Completed on <b>B.E(Civil Engineering)</b> at M.I.E.T College, Trichy <br>
+                      Completed <b>B.E(Civil Engineering)</b> at M.I.E.T College, Trichy <br>
                       and <b>M.E(Structural Engineering)</b> at Alagappa Chettiar Government College of Engineering & Technology, Karaikudi.
                     </div>
                   </div>
@@ -223,7 +223,7 @@
               <img src="assets/imgs/team/1/3.jpg" alt="Team Member">
                   <div class="overlay">
                     <div class="text">
-                      Completed on <b>B.E(Computer Science)</b> at TRP Engineering College(SRM Group of Institutions) <br>
+                      Completed <b>B.E(Computer Science)</b> at TRP Engineering College(SRM Group of Institutions) <br>
                       and <b>MBA</b> at University of West of Scotland(United Kingdom).
                     </div>
                   </div>
@@ -258,7 +258,7 @@
                   <img src="assets/imgs/team/1/5.jpg" alt="Team Member" class="br-right">
                     <div class="overlay">
                       <div class="text">
-                        Completed on <b>B.Arch.,</b> at Adhiyamaan College of Engineering, Hosur <br>
+                        Completed <b>B.Arch.,</b> at Adhiyamaan College of Engineering, Hosur <br>
                         and <b>Master of Urban and Regional Planning</b> at CEPT University, Ahmedabad.
                       </div>
                     </div>
@@ -276,7 +276,7 @@
                   <img src="assets/imgs/team/1/6.jpg" alt="Team Member" class="br-left">
                     <div class="overlay">
                       <div class="text">
-                        Our Associate Interior & Exterior Incharge
+                         Interior & Exterior Incharge
                       </div>
                     </div>
                 </div>
