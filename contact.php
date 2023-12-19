@@ -2,7 +2,7 @@
 <?php include('header.php') ?>
 
     <!-- Breadcrumb Area Start -->
-    <section class="breadcrumb__area">
+    <section class="breadcrumb__area" style="background-image: url(./assets/imgs/bg/breadcrumb-bg.jpg);>
       <div class="container">
         <div class="row">
           <div class="col-xxl-12">

@@ -2,17 +2,17 @@
 <?php include('header.php') ?>
 
     <!-- Breadcrumb Area Start -->
-    <section class="breadcrumb__area">
-      <div class="container">
-        <div class="row">
-          <div class="col-xxl-12">
-            <div class="breadcrumb__content">
-              <h1 class="breadcrumb__title">Service</h1>
-              <p>Elevate with Unique : Unparalleled Services Tailored for You.</p>
+    <section class="breadcrumb__area" style="background-image: url(./assets/imgs/bg/2.jpg);">
+          <div class="container">
+            <div class="row">
+              <div class="col-xxl-12">
+                <div class="breadcrumb__content">
+                  <h1 class="breadcrumb__title">Service</h1>
+                  <p>Elevate with Unique : Unparalleled Services Tailored for You.</p>
+                </div>
+              </div>
             </div>
           </div>
-        </div>
-      </div>
     </section>
     <!-- Breadcrumb Area End -->
 

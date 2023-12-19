@@ -44,7 +44,7 @@
 </style>
 
     <!-- Breadcrumb Area Start -->
-    <section class="breadcrumb__area">
+    <section class="breadcrumb__area"style="background-image: url(./assets/imgs/bg/1.jpg);>
       <div class="container">
         <div class="row">
           <div class="col-xxl-12">
@@ -276,13 +276,13 @@
                   <img src="assets/imgs/team/1/6.jpg" alt="Team Member" class="br-left">
                     <div class="overlay">
                       <div class="text">
-                         Interior & Exterior Incharge
+                         Interior & Exterior Consultant
                       </div>
                     </div>
                 </div>
                 <div class="team__info">
                   <a href="javascript:void(0)">Mr.C.Muthukumar</a>
-                  <p>Interior & Exterior Incharge</p>
+                  <p>Interior & Exterior Consultant</p>
                 </div>
               </div>
             </div>
