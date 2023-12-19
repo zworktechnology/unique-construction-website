@@ -1,7 +1,7 @@
 <?php include('header.php') ?>
 
     <!-- Breadcrumb Area Start -->
-    <section class="breadcrumb__area" style="background-image: url(./assets/imgs/bg/7.jpg);>
+    <section class="breadcrumb__area" style="background-image: url(./assets/imgs/bg/7.jpg);">
       <div class="container">
         <div class="row">
           <div class="col-xxl-12">

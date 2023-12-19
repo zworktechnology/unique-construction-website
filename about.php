@@ -44,7 +44,7 @@
 </style>
 
     <!-- Breadcrumb Area Start -->
-    <section class="breadcrumb__area"style="background-image: url(./assets/imgs/bg/1.jpg);>
+    <section class="breadcrumb__area"style="background-image: url(./assets/imgs/bg/1.jpg);">
       <div class="container">
         <div class="row">
           <div class="col-xxl-12">

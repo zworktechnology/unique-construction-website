@@ -58,24 +58,15 @@
           </div>
         </div>
       </div>
-      <div class="footer__bottom">
+    </div>
+    <div class="footer__area">
         <div class="container">
-          <div class="row">
-            <div class="col-6">
                 <div class="footer__copyright mb-3">
-                  <p>Copyrights © 2023 <a href="javascript:void(0)"> Unique Construction</a> . All Rights Reserved</p>
+                  <p style="padding-left: 20px;">Copyrights © 2023 <a href="javascript:void(0)"> Unique Construction</a> . All Rights Reserved</p>
+                  <p style="padding-left: 130px;">Crafted by <a href="https://zworktechnology.com/" target="_blank"> zworktechnology.com </a></p>
                 </div>
-            </div>
-            <div class="col-6 text-right">  
-                <div class="footer__copyright mb-3" style="margin-left: 250px;">
-                  <p>Crafted by <a href="https://zworktechnology.com/" target="_blank"> zworktechnology.com </a></p>
-                </div>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
-    </div>
   </footer>
   <!-- footer area end -->
 
