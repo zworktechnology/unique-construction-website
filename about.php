@@ -229,7 +229,7 @@
                   </div>
               </div>
               <div class="team__info">
-                <a href="javascript:void(0)">Er.M.Jayendran B.E.,</a>
+                <a href="javascript:void(0)">Er.M.Jayendran B.E.,MBA</a>
                 <p>Marketing Manager</p>
               </div>
             </div>
