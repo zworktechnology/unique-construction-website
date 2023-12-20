@@ -45,7 +45,7 @@
             </div>
             <div class="col-xxl-5 col-md-4">
               <div class="footer__widget footer__widget-3">
-                <h3 class="footer__widget-title">Corp Office</h3>
+                <h3 class="footer__widget-title">Head Office</h3>
                 <ul class="footer__address">
                   <li><a>52, Sundaraj Nagar, Subramaniyapuram, Trichy-20</a></li>
                   <h3 class="footer__widget-title">Branch Office</h3>
