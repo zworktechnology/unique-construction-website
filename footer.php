@@ -38,7 +38,7 @@
                   <li><a href="javascript:void(0)">Architectural Designs</a></li>
                   <li><a href="javascript:void(0)">Total Contract</a></li>
                   <li><a href="javascript:void(0)">Labour Contract</a></li>
-                  <li><a href="javascript:void(0)">Work Execution</a></li>
+                  <li><a href="javascript:void(0)">Interior & Exterior Work Execution</a></li>
                   <li><a href="javascript:void(0)">Repair & Renovation</a></li>
                 </ul>
               </div>
@@ -61,7 +61,7 @@
     </div>
     <div class="footer__area">
       <div class="container">
-        <div class="row">
+        <div class="row mt-3 mb-3">
           <div class="col-6">
             <p>Copyrights © 2023 <a style="color: #b5c918;" href="javascript:void(0)">Unique Constructions</a> . All Rights Reserved</p>
           </div>
