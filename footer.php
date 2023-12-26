@@ -34,12 +34,12 @@
               <div class="footer__widget footer__widget-2">
                 <h3 class="footer__widget-title">Information</h3>
                 <ul class="footer__quick-link">
-                  <li><a href="structural-design.php">Structural Design</a></li>
-                  <li><a href="contract-architectural-design.php">Contract Architectural Design</a></li>
-                  <li><a href="estimation.php">Estimation</a></li>
-                  <li><a href="project-management.php">Project Management</a></li>
-                  <li><a href="interior-and-exterior-design.php">Interior & Exterior Design</a></li>
-                  <li><a href="repair-and-renovation.php">Repair & Renovation</a></li>
+                  <li><a href="javascript:void(0)">Structural Designs</a></li>
+                  <li><a href="javascript:void(0)">Architectural Designs</a></li>
+                  <li><a href="javascript:void(0)">Total Contract</a></li>
+                  <li><a href="javascript:void(0)">Labour Contract</a></li>
+                  <li><a href="javascript:void(0)">Work Execution</a></li>
+                  <li><a href="javascript:void(0)">Repair & Renovation</a></li>
                 </ul>
               </div>
             </div>
@@ -60,13 +60,17 @@
       </div>
     </div>
     <div class="footer__area">
-        <div class="container">
-                <div class="footer__copyright mb-3">
-                  <p style="padding-left: 20px;">Copyrights © 2023 <a href="javascript:void(0)"> Unique Construction</a> . All Rights Reserved</p>
-                  <p style="padding-left: 130px;">Crafted by <a href="https://zworktechnology.com/" target="_blank"> zworktechnology.com </a></p>
-                </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-6">
+            <p>Copyrights © 2023 <a style="color: #b5c918;" href="javascript:void(0)">Unique Constructions</a> . All Rights Reserved</p>
+          </div>
+          <div class="col-6" style="text-align: right;">
+            <p>Crafted by <a style="color: #b5c918;" href="https://zworktechnology.com/" target="_blank"> zworktechnology.com </a></p>
+          </div>
         </div>
       </div>
+    </div>
   </footer>
   <!-- footer area end -->
 

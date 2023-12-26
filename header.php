@@ -93,7 +93,7 @@
                   <li><a href="about.php"><span>02</span>About</a></li>
                   <li><a href="service.php"><span>03</span>Services</a>
                     <ul class="main-dropdown">
-                      <li><a href="structural-design.php">Structural Design</a></li>
+                      <li><a href="structural-designs.php">Structural Design</a></li>
                       <li><a href="estimation.php">Estimation</a></li>
                       <li><a href="contract-architectural-design.php">Contract Architectural Design</a></li>
                       <li><a href="project-management.php">Project Management</a></li>
@@ -138,7 +138,7 @@
               <li><a href="about.php">About <span>02</span></a></li>
               <li><a href="service.php">Services<span>03</span></a>
                 <ul class="main-dropdown">
-                  <li><a href="structural-design.php">Structural Design</a></li>
+                  <li><a href="structural-designs.php">Structural Design</a></li>
                   <li><a href="estimation.php">Estimation</a></li>
                   <li><a href="contract-architectural-design.php">Contract Architectural Design</a></li>
                   <li><a href="service-details.php">Project Management</a></li>

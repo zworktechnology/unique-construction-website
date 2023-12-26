@@ -26,7 +26,7 @@
         <div class="row">
           <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
             <div class="service__slide-4 wcfadeUp2">
-              <a href="structural-design.php">
+              <a href="structural-designs.php">
                 <div class="service__thumb-wrapper">
                   <img class="service__thumb" src="assets/imgs/service/1/1.jpg" alt="Service Image">
                 </div>

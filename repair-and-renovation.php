@@ -29,7 +29,7 @@
               <div class="widget__service wcfadeUp3">
                 <h2 class="widget__title">more services</h2>
                   <ul>
-                    <li><a href="structural-design.php">Structural Design</a></li>
+                    <li><a href="structural-designs.php">Structural Design</a></li>
                     <li><a href="estimation.php">Estimation</a></li>
                     <li><a href="contract-architectural-design.php">Contract Architectural Design</a></li>
                     <li><a href="project-management.php">Project Management</a></li>
