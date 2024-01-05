@@ -26,7 +26,7 @@
                   <li><a href="about.php">About</a></li>
                   <li><a href="service.php">Services</a></li>
                   <li><a href="portfolio.php">Portfolio</a></li>
-                  <li><a href="contact.php">Contact</a></li>
+                  <li><a href="contact.php">Contact Us</a></li>
                 </ul>
               </div>
             </div>
@@ -34,12 +34,12 @@
               <div class="footer__widget footer__widget-2">
                 <h3 class="footer__widget-title">Information</h3>
                 <ul class="footer__quick-link">
-                  <li><a href="javascript:void(0)">Structural Designs</a></li>
-                  <li><a href="javascript:void(0)">Architectural Designs</a></li>
-                  <li><a href="javascript:void(0)">Total Contract</a></li>
-                  <li><a href="javascript:void(0)">Labour Contract</a></li>
-                  <li><a href="javascript:void(0)">Interior & Exterior Work Execution</a></li>
-                  <li><a href="javascript:void(0)">Repair & Renovation</a></li>
+                  <li><a href="structural-designs.php">Structural Designs</a></li>
+                  <li><a href="contract-architectural-design.php">Architectural Designs</a></li>
+                  <li><a href="project-management.php">Total Contract</a></li>
+                  <li><a href="project-management.php">Labour Contract</a></li>
+                  <li><a href="interior-and-exterior-design.php">Interior & Exterior Work Execution</a></li>
+                  <li><a href="repair-and-renovation.php">Repair & Renovation</a></li>
                 </ul>
               </div>
             </div>
@@ -50,8 +50,7 @@
                   <li><a>52, Sundaraj Nagar, Subramaniyapuram, Trichy-20</a></li>
                   <h3 class="footer__widget-title">Branch Office</h3>
                   <li>Udayar Buildings,Near bus stand,<br>Keeranur, Pudukkottai.</li>
-                  <li><a href="tel:+919629709189">+91 9629709189</a></li>
-                  <li><a href="mailto:info@uniqueconstructionstrichy.com">info@uniqueconstructionstrichy.com</a></li>
+                  <li><p>Mon to Sat<span> : 10:00 AM - 08:00 PM</span></p></li>
                 </ul>
               </div>
             </div>

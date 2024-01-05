@@ -39,7 +39,7 @@
               </div>
 
               <div class="widget__contact wow wcfadeUp" data-wow-delay="0.15s">
-                <p>Contact for inquery</p>
+                <p>Contact for inquiry</p>
                 <h3>Want to know the
                   more details?</h3>
                 <a class="btn-hover" href="contact.php"><span></span> Let’s talk</a>

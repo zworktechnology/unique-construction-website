@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content=" " />
 
-  <title>Unique Construction</title>
+  <title>Unique Constructions Trichy</title>
 
   <!-- Fav Icon -->
   <link rel="icon" type="image/x-icon" href="assets/imgs/icon/logo-3.png">
@@ -46,10 +46,10 @@
   <!-- header area start -->
   <header>
     <div class="header__area">
-      <div class="header__top">
+      <!-- <div class="header__top">
         <p style="color: white;">Monday - Saturday<span>10:00 AM - 08:00 PM</span></p>
         <span class="close-topbar" style="color: white;"><i class="fa-solid fa-xmark"></i></span>
-      </div>
+      </div> -->
 
       <div class="header__info">
         <div class="container-fluid">
@@ -66,8 +66,8 @@
             <div class="col-xxl-6 col-xl-5 col-lg-5 col-md-6">
               <div class="header__info-right">
                 <ul class="header__social">
-                <li><a href="https://www.facebook.com/profile.php?id=61554777562622" target="_blank"><span><i class="fa-brands fa-facebook-f"></i></span></a></li>
-                    <li><a href="https://www.instagram.com/unique_constructions.trichy/" target="_blank"><span><i class="fa-brands fa-instagram"></i></span></a></li>
+                  <li><a href="https://www.facebook.com/profile.php?id=61554777562622" target="_blank"><span><i class="fa-brands fa-facebook-f"></i></span></a></li>
+                  <li><a href="https://www.instagram.com/unique_constructions.trichy/" target="_blank"><span><i class="fa-brands fa-instagram"></i></span></a></li>
                 </ul>
               </div>
             </div>
@@ -94,22 +94,22 @@
                   <li><a href="service.php"><span>03</span>Services</a>
                     <ul class="main-dropdown">
                       <li><a href="structural-designs.php">Structural Design</a></li>
-                      <li><a href="estimation.php">Estimation</a></li>
-                      <li><a href="contract-architectural-design.php">Contract Architectural Design</a></li>
-                      <li><a href="project-management.php">Project Management</a></li>
-                      <li><a href="interior-and-exterior-design.php">Interior & Exterior Design</a></li>
+                      <li><a href="contract-architectural-design.php">Architectural Design</a></li>
+                      <li><a href="project-management.php">Total Contract</a></li>
+                      <li><a href="project-management.php">Labour Contract</a></li>
+                      <li><a href="interior-and-exterior-design.php">Interior & Exterior Work Execution</a></li>
                       <li><a href="repair-and-renovation.php">Repair & Renovation</a></li>
                     </ul>
                   </li>
                   <li><a href="portfolio.php"><span>04</span> Portfolio</a></li>
-                  <li><a href="contact.php"><span>05</span> Contact</a></li>
+                  <li><a href="contact.php"><span>05</span> Contact Us</a></li>
                 </ul>
               </nav>
             </div>
             <div class="col-xxxl-2 col-xxl-3 col-xl-3 col-lg-5 col-md-5 col-5">
               <div class="header__others">
                 <div class="header__support">
-                  <p>Chat on Whatsapp <a href="https://api.whatsapp.com/send/?phone=%2B919629709189&text&type=phone_number&app_absent=0" target="_blank" >+91 9629709189</a></p>
+                  <p>Chat on Whatsapp <a href="https://api.whatsapp.com/send/?phone=%2B919629709189&text&type=phone_number&app_absent=0" target="_blank">+91 9629709189</a></p>
                 </div>
                 <div class="header__offcanvas" id="open_offcanvas">
                   <span><i class="flaticon-align-left"></i></span>
@@ -139,15 +139,15 @@
               <li><a href="service.php">Services<span>03</span></a>
                 <ul class="main-dropdown">
                   <li><a href="structural-designs.php">Structural Design</a></li>
-                  <li><a href="estimation.php">Estimation</a></li>
-                  <li><a href="contract-architectural-design.php">Contract Architectural Design</a></li>
-                  <li><a href="service-details.php">Project Management</a></li>
-                  <li><a href="interior-and-exterior-design.php">Interior & Exterior Design</a></li>
+                  <li><a href="contract-architectural-design.php">Architectural Design</a></li>
+                  <li><a href="project-management.php">Total Contract</a></li>
+                  <li><a href="project-management.php">Labour Contract</a></li>
+                  <li><a href="interior-and-exterior-design.php">Interior & Exterior Work Execution</a></li>
                   <li><a href="repair-and-renovation.php">Repair & Renovation</a></li>
                 </ul>
               </li>
               <li><a href="portfolio.php">Portfolio<span>04</span></a></li>
-              <li><a href="contact.php">Contact<span>05</span></a></li>
+              <li><a href="contact.php">Contact Us<span>05</span></a></li>
             </ul>
           </nav>
         </div>

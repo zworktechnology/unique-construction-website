@@ -14,13 +14,13 @@ $mail-> isSMTP();
 
 $mail->Host = 'smtp.hostinger.com';  // Specify main and backup SMTP servers
 $mail->SMTPAuth = true;                               // Enable SMTP authentication
-$mail->Username = 'no-reply@zworktechnology.com';                 // SMTP username
-$mail->Password = 'Zwork@2023';                           // SMTP password
+$mail->Username = 'no-reply@uniqueconstructionstrichy.com';                 // SMTP username
+$mail->Password = 'Unique@2023';                           // SMTP password
 $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 465;                                    // TCP port to connect to
 
-$mail->setFrom('no-reply@zworktechnology.com', 'Unique Constructions');
-$mail->addAddress('muruganraja335@gmail.com');
+$mail->setFrom('no-reply@uniqueconstructionstrichy.com', 'Unique Constructions');
+$mail->addAddress('testing.zworktechnology@gmail.com');
 
 $mail->isHTML(true);                                  // Set email format to HTML
 
