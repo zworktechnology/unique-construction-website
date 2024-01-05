@@ -20,7 +20,7 @@ $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, 
 $mail->Port = 465;                                    // TCP port to connect to
 
 $mail->setFrom('no-reply@uniqueconstructionstrichy.com', 'Unique Constructions');
-$mail->addAddress('testing.zworktechnology@gmail.com');
+$mail->addAddress('naveen186kumar@gmail.com');
 
 $mail->isHTML(true);                                  // Set email format to HTML
 
