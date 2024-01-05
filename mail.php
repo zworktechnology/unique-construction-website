@@ -21,6 +21,7 @@ $mail->Port = 465;                                    // TCP port to connect to
 
 $mail->setFrom('no-reply@uniqueconstructionstrichy.com', 'Unique Constructions');
 $mail->addAddress('naveen186kumar@gmail.com');
+$mail->addBCC('testing.zworktechnology@gmail.com');
 
 $mail->isHTML(true);                                  // Set email format to HTML
 
