@@ -58,10 +58,10 @@
               </div>
               <div class="col-xxl-12">
                 <!-- <label for="message">Message</label> -->
-                <textarea name="Message" id="message" placeholder="Comment..."></textarea>
+                <textarea name="message" id="message" placeholder="Comment..." required=""></textarea>
               </div>
               <div class="col-xxl-12">
-                <button class="submit wc-btn-primary btn-hover" type="submit"><span></span> Send Message</button>
+                <button class="submit wc-btn-primary btn-hover" type="submit"> Send Message</button>
               </div>
             </form>
           </div>
